@@ -7,9 +7,9 @@ Contact me: **mafra.io**
 
 **Current Jobs**
 
-- Cofounder & Fullstack developer @ zero200.io
-- Middle System Analyst @ capgemini.com
-- Creator of pybotics.com, a collaborative DIY Python and Raspberry Pi projects platform (under construction)
+- Cofounder & Fullstack developer @ [Zero200](zero200.io)
+- Middle System Analyst @ [Capgemini](https://capgemini.com)
+- Creator of [Pybotics](pybotics.com), a collaborative Python and Raspberry Pi DIY projects platform (under construction)
 
 **About me**
 
@@ -34,7 +34,6 @@ I am a fullstack developer passionate about the world of science and technology,
   - **Proposals:** crafted with Adobe InDesign
 
 **Stay in touch!**
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiomafra/)](https://www.linkedin.com/in/sergiomafra/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5626286/sergiomafra)](https://stackoverflow.com/users/5626286/sergiomafra)
