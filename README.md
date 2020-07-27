@@ -1,7 +1,7 @@
 ## **Sérgio Mafra**
 
 ### Need a website or software solution?
-Contact me: **mafra.io**
+Contact me: **[mafra.io](https://mafra.io)**
 
 <hr>
 
