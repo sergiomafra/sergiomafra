@@ -7,9 +7,9 @@ Contact me: **mafra.io**
 
 **Current Jobs**
 
-- Cofounder & Fullstack developer @ [Zero200](zero200.io)
+- Cofounder & Fullstack developer @ [Zero200](https://zero200.io)
 - Middle System Analyst @ [Capgemini](https://capgemini.com)
-- Creator of [Pybotics](pybotics.com), a collaborative Python and Raspberry Pi DIY projects platform (under construction)
+- Creator of [Pybotics](https://pybotics.com), a collaborative Python and Raspberry Pi DIY projects platform (under construction)
 
 **About me**
 
