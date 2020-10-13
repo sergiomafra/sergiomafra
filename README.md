@@ -7,9 +7,9 @@ Contact me: **[mafra.io](https://mafra.io)**
 
 **Current Jobs**
 
-- Cofounder & Fullstack developer @ [Zero200](https://zero200.io)
-- Middle System Analyst @ [Capgemini](https://capgemini.com)
-- Creator of [Pybotics](https://pybotics.com), a collaborative Python and Raspberry Pi DIY projects platform (under construction)
+- Cofounder & Fullstack Developer @ [Zero200](https://zero200.io)
+- Founder, Graphic Designer & Fullstack Developer @ [Touch Media](https://touchmedia.com.br)
+<!-- - Creator of [Pybotics](https://pybotics.com), a collaborative Python and Raspberry Pi DIY projects platform (under construction) -->
 
 **About me**
 
@@ -23,14 +23,16 @@ I am a fullstack developer passionate about the world of science and technology,
   - **OS:** Linux (Ubuntu)
   - **Scalability:** Docker, docker-compose
   - **Frameworks:** Scrapy, Flask, Django, NumPy, Pandas, matplotlib
-  - **Versioning:** Git, GitHub, GitLab
 - **Frontend:**
   - **Crafted with:** HTML 5, CSS 3, Javascript ECMAScript 6+
-  - **Frameworks:** React.js, Vue.js
+  - **Frameworks:** Vue.js, React.js
+- **Versioning:**
+  - Git, GitHub, GitLab
 - **Graphic Design:**
   - **Wireframing & High fidelity:** Adobe XD
   - **Image Manipulation:** Adobe Photoshop
   - **Logo Design & Vectorizing:** Adobe Illustrator
+  - **Animations:** Adobe After Effects
   - **Proposals:** crafted with Adobe InDesign
 
 **Stay in touch!**
