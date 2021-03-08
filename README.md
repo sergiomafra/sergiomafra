@@ -5,9 +5,8 @@ Contact me: **[mafra.io](https://mafra.io)**
 
 <hr>
 
-**Current Jobs**
+**Current Job**
 
-- Cofounder & Fullstack Developer @ [Zero200](https://zero200.io)
 - Founder, Graphic Designer & Fullstack Developer @ [Touch Media](https://touchmedia.com.br)
 <!-- - Creator of [Pybotics](https://pybotics.com), a collaborative Python and Raspberry Pi DIY projects platform (under construction) -->
 
